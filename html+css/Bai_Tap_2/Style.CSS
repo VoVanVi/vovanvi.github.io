@@ -1,0 +1,99 @@
+#logo1 {
+	background-color: #2D2F35;
+}
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif ;
+}
+#section2 {
+	background-image: url("bg_home_intro.gif");
+	margin-top: -20px;
+	height: 300px;
+}
+#text1 {
+	width: 450px;
+	margin-left: 150px;	
+}
+.header {
+	color:#ffff00;
+	font-size: 25px;		
+}
+.para1 {
+	color: white;
+	font-size: 14px;
+	
+}
+#image1 {
+	float: right;
+	margin-right: 102px;
+    	margin-bottom: 11px;
+}
+#section3 { 
+	background-color: #2D2F35;
+	width: 85%;
+	margin-top: -16px;
+	padding-left: 200px;
+	hight: 300px;
+	float: left;
+	border-top: 1px solid #464646;
+	border-bottom:1px solid #464646;
+}
+.image {
+	float: left;
+	margin-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.numberImage {
+	position: relative;
+	top: -65px;
+	left: -39px;
+}
+#section4 {
+	background-color: #2D2F35;
+	border-bottom: 1px solid #464646;
+	height: 540px;
+	margin-bottom: 0px;	
+}
+#leftpart {
+	background-image: url("home_services_bg_design.gif");
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	float: left;
+	width: 400px;
+	margin-left: 150px;
+}
+.header4 {
+	color: #ffff00;
+	margin-top: 5px;
+}
+.leftpara {
+	color: white;
+	margin-top: 1px;
+	text-align: justify;	
+}
+#rightpart {
+	background-image: url("home_services_bg_marketing.gif");
+	background-position: left top;
+	background-repeat: no-repeat;
+	float: left;
+	width: 400px;
+	margin-left: 200px;
+	padding-top: 20px;
+}
+
+.rightpara {
+	color: white;
+	padding-top: 40px;
+	text-align: justify;
+}
+.lastpara {
+	background-image: url("bg_footer.gif"); 
+    	color: white;
+    	text-align: center;
+    	float: left;
+    	height: 75px;
+    	width: 100%;
+    	margin-top: -10px;
+  	border-top: 1px solid #464646;
+
+}
